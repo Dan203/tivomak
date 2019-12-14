@@ -1,5 +1,5 @@
 # tivomak
-Sets the MAK for the TiVo DirectShow Filter
+VS 2017 CLI app that sets the MAK for the TiVo DirectShow Filter
 
 Usage....
 
